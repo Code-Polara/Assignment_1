@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D199BBB4-2C12-49BC-BBD0-C2E32E85C408"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "589724C6-3644-4868-A33F-ED134AA0808C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Ass1/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "589724C6-3644-4868-A33F-ED134AA0808C - 709439c90cce8587"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Ass1.ViewController.Label1.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Ass1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user204571/Desktop/Ass1/Ass1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "589724C6-3644-4868-A33F-ED134AA0808C - f9f64e1074b439b3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Ass1.ViewController.Label1.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Ass1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user204571/Desktop/Ass1/Ass1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "589724C6-3644-4868-A33F-ED134AA0808C - 60af2187181038fe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Ass1.ViewController.Label1.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Ass1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user204571/Desktop/Ass1/Ass1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "59">
+               </Location>
+               <Location
+                  uuid = "589724C6-3644-4868-A33F-ED134AA0808C - 9c5760c69a967380"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Ass1.ViewController.Label1.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Ass1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user204571/Desktop/Ass1/Ass1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "589724C6-3644-4868-A33F-ED134AA0808C - ebeec77334737dc4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Ass1.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Ass1.ViewController"
+                  moduleName = "Ass1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user204571/Desktop/Ass1/Ass1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "146">
+               </Location>
+               <Location
+                  uuid = "589724C6-3644-4868-A33F-ED134AA0808C - aaa33b93f005f5c3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Ass1.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Ass1.ViewController&gt;"
+                  moduleName = "Ass1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user204571/Desktop/Ass1/Ass1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "102">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "79BE9005-05D1-450C-BBC5-1A49A74412FE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Ass1/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "Reset(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
